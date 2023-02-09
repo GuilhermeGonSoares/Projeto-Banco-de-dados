@@ -6,7 +6,7 @@
 - Linguagem de programação: **Python**
 
 ### Modelo conceitual:
-![](@attachment/Clipboard_2023-02-09-15-22-41.png)
+![image](https://user-images.githubusercontent.com/99030229/217906688-30e9b17e-cd52-48e2-9e92-61262baa4471.png)
 
 
 ### Modelo lógico:
