@@ -10,7 +10,7 @@
 
 
 ### Modelo lógico:
-![](@attachment/Clipboard_2023-02-09-15-23-06.png)
+![image](https://user-images.githubusercontent.com/99030229/217906826-2a15c5cf-9a36-4b42-84ff-fa04934a61c3.png)
 
 
 ## CRUD
@@ -18,7 +18,7 @@
 - A interface foi desenvolvida no terminal.
 
 Exemplo:
-![](@attachment/Clipboard_2023-02-09-15-27-44.png)
+![image](https://user-images.githubusercontent.com/99030229/217907010-3e49bfa1-8d93-4540-a80d-0dbcf8a041c1.png)
 
 
 ## Além disso...
@@ -31,7 +31,7 @@ Exemplo:
 
 
 - **VIEW** criada:
-![](@attachment/Clipboard_2023-02-09-15-30-39.png)
+![image](https://user-images.githubusercontent.com/99030229/217907183-6c4e3495-f6a2-421c-80a9-15b870628aae.png)
 
 - **PROCEDURE** criada:
-![](@attachment/Clipboard_2023-02-09-15-31-00.png)
+![image](https://user-images.githubusercontent.com/99030229/217907251-2a574c39-958a-4279-8a0f-0643fb822451.png)
